@@ -50,27 +50,77 @@ Open Source           ████████████░░░░░░░�
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔄 Syncra
+<div align="center">
 
-A project focused on synchronization and building practical software systems.
+# ☁️ Syncra
+### *One Drive. Your Cloud.*
 
-<a href="https://syncra-opal-nine.vercel.app/">🚀 Live Demo →</a>  
-<a href="https://github.com/c-sidd/Syncra">📂 Repository →</a>
+</div>
+
+**Syncra** is a cloud-drive application that gives users a simple interface for managing files while using their own AWS S3 storage.
+
+**✨ Highlights**
+
+- 🔐 Account authentication
+- ☁️ Connect your own S3 storage
+- 📤 Upload & download files
+- 📁 Create and manage folders
+- 🗑️ Delete files and folders
+- 📊 Track storage usage
+- 🔒 S3 credentials protected by the backend
+- ❄️ Designed for S3 storage-class/lifecycle workflows
+
+**🧰 Stack**
+
+`Django` `Django REST Framework` `React` `PostgreSQL` `AWS S3`
+
+<br>
+
+<div align="center">
+
+<a href="https://syncra-opal-nine.vercel.app/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-ff9fcf?style=for-the-badge&labelColor=161b22" alt="Syncra Live Demo"></a>
+<a href="https://github.com/c-sidd/Syncra"><img src="https://img.shields.io/badge/📂%20REPOSITORY-58a6ff?style=for-the-badge&labelColor=161b22" alt="Syncra Repository"></a>
+
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Conflux
+<div align="center">
 
-A project focused on connecting systems and building practical software solutions.
+# ⛓️ Conflux
+### *Converging Systems. Building Tomorrow.*
 
-<a href="https://github.com/c-sidd/Conflux">📂 Repository →</a>
+</div>
+
+**Conflux** is a blockchain-focused project exploring decentralized applications, smart contracts, and secure data flows.
+
+**✨ Highlights**
+
+- ⛓️ Blockchain-based architecture
+- 📜 Smart-contract driven workflows
+- 🔐 Secure and transparent records
+- 🧩 Web3 integration
+- 🌐 Full-stack application flow
+- 🏗️ Built as a practical blockchain learning project
+
+**🧰 Stack**
+
+`Solidity` `Hardhat` `Web3.js` `React` `Node.js`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/c-sidd/Conflux"><img src="https://img.shields.io/badge/📂%20REPOSITORY-58a6ff?style=for-the-badge&labelColor=161b22" alt="Conflux Repository"></a>
+
+</div>
 
 </td>
 </tr>
