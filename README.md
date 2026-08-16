@@ -60,7 +60,8 @@ Open Source           ████████████░░░░░░░�
 
 A project focused on synchronization and building practical software systems.
 
-<a href="https://github.com/c-sidd/Syncra">Repository →</a>
+<a href="https://syncra-opal-nine.vercel.app/">🚀 Live Demo →</a>  
+<a href="https://github.com/c-sidd/Syncra">📂 Repository →</a>
 
 </td>
 <td width="50%">
@@ -69,7 +70,7 @@ A project focused on synchronization and building practical software systems.
 
 A project focused on connecting systems and building practical software solutions.
 
-<a href="https://github.com/c-sidd/Conflux">Repository →</a>
+<a href="https://github.com/c-sidd/Conflux">📂 Repository →</a>
 
 </td>
 </tr>
