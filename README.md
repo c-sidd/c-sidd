@@ -1,16 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Chandrachud Siddharth
-
-### AI • Backend • Cloud • C++ • Python
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real+projects+and+learning+every+day;Python+%7C+C%2B%2B+%7C+Django+%7C+AWS;Exploring+AI%2C+Cloud+%26+Distributed+Systems;Always+learning.+Always+building." alt="Typing SVG">
-
-<p>
-<a href="https://github.com/c-sidd"><img src="https://img.shields.io/github/followers/c-sidd?label=Followers&style=for-the-badge&logo=github" alt="Followers"></a>
-<a href="https://github.com/c-sidd?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25-181717?style=for-the-badge&logo=github" alt="Repositories"></a>
-<a href="mailto:chandrachudsiddharth@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="./profile/terminal-header.svg" alt="Chandrachud terminal ASCII profile header">
 
 </div>
 
