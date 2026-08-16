@@ -66,40 +66,20 @@ Open Source           ████████████░░░░░░░�
 <tr>
 <td width="50%">
 
-### 🤖 The Interview Agent
+### 🔄 Syncra
 
-Interview-focused project exploring practical application development and AI-oriented workflows.
+A project focused on synchronization and building practical software systems.
 
-**JavaScript** · <a href="https://github.com/c-sidd/The-Interview-Agent">Repository →</a>
-
-</td>
-<td width="50%">
-
-### 🚀 LaunchCopilot
-
-Developer tooling and product workflow project.
-
-**JavaScript** · <a href="https://github.com/c-sidd/LaunchCopilot">Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ AWS Cloud Practitioner
-
-Structured, exam-ready AWS Cloud Practitioner notes.
-
-**AWS • Markdown** · <a href="https://github.com/c-sidd/AWS-Cloud-Practitioner-CLF-C02">Repository →</a>
+<a href="https://github.com/c-sidd/Syncra">Repository →</a>
 
 </td>
 <td width="50%">
 
-### 🌐 Portfolio Website
+### 🌐 Conflux
 
-Personal portfolio website project.
+A project focused on connecting systems and building practical software solutions.
 
-**HTML** · <a href="https://github.com/c-sidd/Portfolio_Website">Repository →</a>
+<a href="https://github.com/c-sidd/Conflux">Repository →</a>
 
 </td>
 </tr>
