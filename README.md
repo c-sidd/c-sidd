@@ -126,7 +126,7 @@ Personal portfolio website project.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/c-sidd/c-sidd/output/github-snake.svg" alt="GitHub contribution snake">
+<img src="./dist/github-snake.svg" alt="GitHub contribution snake">
 
 </div>
 
