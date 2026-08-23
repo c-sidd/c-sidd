@@ -128,6 +128,32 @@ Open Source           ████████████░░░░░░░�
 
 ---
 
+## 🔀 Pull Requests
+
+<div align="center">
+
+### Open Source Contributions
+
+<a href="https://github.com/search?q=author%3Ac-sidd+is%3Apr&type=pullrequests">
+<img src="https://img.shields.io/badge/🔎%20VIEW%20ALL%20MY%20PULL%20REQUESTS-58a6ff?style=for-the-badge&labelColor=161b22" alt="View all Pull Requests by c-sidd">
+</a>
+
+<br><br>
+
+<a href="https://github.com/search?q=author%3Ac-sidd+is%3Apr+is%3Aopen&type=pullrequests">
+<img src="https://img.shields.io/badge/🟢%20OPEN%20PRS-2ea043?style=for-the-badge&labelColor=161b22" alt="Open Pull Requests by c-sidd">
+</a>
+
+<a href="https://github.com/search?q=author%3Ac-sidd+is%3Apr+is%3Amerged&type=pullrequests">
+<img src="https://img.shields.io/badge/✅%20MERGED%20PRS-8957e5?style=for-the-badge&labelColor=161b22" alt="Merged Pull Requests by c-sidd">
+</a>
+
+</div>
+
+> 💡 Click **View All My Pull Requests** to see PRs I've opened across GitHub, including contributions to other repositories.
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
