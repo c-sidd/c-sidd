@@ -118,26 +118,38 @@ Since I want strong fundamentals across the major software-engineering domains b
 <div align="center">
 
 # ☁️ Syncra
-### *One Drive. Your Cloud.*
+### *Your S3. Your files. One clean interface.*
 
 </div>
 
-**Syncra** is a cloud-drive application that gives users a simple interface for managing files while using their own AWS S3 storage.
+**Syncra** is a full-stack cloud storage manager built around a user's own AWS S3 bucket. It provides a clean application layer for authentication, folder organization and file operations without requiring users to work directly in the AWS Console. The backend keeps file metadata and folder structure in PostgreSQL while using AWS S3 as the actual object store. citeturn43file0
 
-**✨ Highlights**
+**✨ What the project actually implements**
 
-- 🔐 Account authentication
-- ☁️ Connect your own S3 storage
-- 📤 Upload & download files
-- 📁 Create and manage folders
-- 🗑️ Delete files and folders
-- 📊 Track storage usage
-- 🔒 S3 credentials protected by the backend
-- ❄️ Designed for S3 storage-class/lifecycle workflows
+- 🔐 Registration, login and logout with DRF token authentication
+- ☁️ Connect a user's own S3 bucket and region from the account settings
+- 🔒 Encrypt the stored S3 secret key at rest; the secret is not returned by the Account API
+- 📤 Upload and 🗑️ delete objects in the connected bucket
+- 📥 Generate short-lived S3 presigned download URLs
+- 📁 Create and browse nested virtual folders
+- 👤 Isolate objects using a user-specific S3 prefix
+- 🧊 Configure S3 Lifecycle transitions to Intelligent-Tiering, Standard-IA, Glacier Instant Retrieval and Deep Archive
+- 🧪 Backend test coverage through Django's test suite
 
-**🧰 Stack**
+**🧰 Actual Stack — from the repository**
 
-`Django` `Django REST Framework` `React` `PostgreSQL` `AWS S3`
+<div align="center">
+
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Django 4.2](https://img.shields.io/badge/Django_4.2-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+</div>
 
 <br>
 
@@ -154,24 +166,48 @@ Since I want strong fundamentals across the major software-engineering domains b
 <div align="center">
 
 # ⛓️ Conflux
-### *Converging Systems. Building Tomorrow.*
+### *Unified Multi-Cloud Storage Platform*
 
 </div>
 
-**Conflux** is a blockchain-focused project exploring decentralized applications, smart contracts, and secure data flows.
+**Conflux** is a unified multi-cloud storage platform that turns multiple connected cloud accounts into one virtual filesystem. The current implementation pools storage across multiple Google Drive accounts and uses a `StorageManager` placement engine to choose where uploaded files should go based on available capacity. citeturn46file0
 
-**✨ Highlights**
+**✨ What the project actually implements**
 
-- ⛓️ Blockchain-based architecture
-- 📜 Smart-contract driven workflows
-- 🔐 Secure and transparent records
-- 🧩 Web3 integration
-- 🌐 Full-stack application flow
-- 🏗️ Built as a practical blockchain learning project
+- ☁️ Connect multiple Google Drive accounts and pool their available storage
+- 🧠 Storage placement strategies including **most-free**, round-robin and best-fit
+- 📁 Nested virtual folders with breadcrumbs, grid/list views, sorting and search
+- ⭐ Favorites, recent files and soft-delete trash/recovery
+- 🖱️ Desktop-style file explorer interactions: drag-and-drop uploads, context menus, multi-select actions and properties panel
+- 📤 Upload queue with transfer speed/ETA monitoring and duplicate filename conflict resolution
+- 👁️ In-browser previews for images, PDFs and text files
+- 📦 Bulk ZIP downloads and folder ZIP streaming
+- 🔐 JWT authentication, password reset, email verification, active device sessions and audit logging
+- ⚡ Celery + Redis backend task infrastructure
+- 📚 OpenAPI/Swagger API documentation
+- 🐳 Docker-based local and production deployment setups
+- 🧪 Automated Django test suite with the repository documenting 17 passing tests
 
-**🧰 Stack**
+**🧰 Actual Stack — from the repository**
 
-`Solidity` `Hardhat` `Web3.js` `React` `Node.js`
+<div align="center">
+
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Django 6](https://img.shields.io/badge/Django_6-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![SimpleJWT](https://img.shields.io/badge/SimpleJWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Google Drive API](https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 <br>
 
@@ -204,8 +240,7 @@ Since I want strong fundamentals across the major software-engineering domains b
 </a>
 
 <a href="https://github.com/search?q=author%3Ac-sidd+is%3Apr+is%3Amerged&type=pullrequests">
-<img src="https://img.shields.io/badge/✅%20MERGED%20PRS-8957e5?style=for-the-badge&labelColor=161b22" alt="Merged Pull Requests by c-sidd">
-</a>
+<img src="https://img.shields.io/badge/✅%20MERGED%20PRS-8957e5?style=for-the-badge&labelColor=161b22" alt="Merged Pull Requests by c-sidd"></a>
 
 </div>
 
