@@ -37,7 +37,7 @@ Open Source           ████████████░░░░░░░�
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -158,14 +158,9 @@ Open Source           ████████████░░░░░░░�
 
 <div align="center">
 
-<!-- Live card: generated from GitHub data on request, not stored as hardcoded numbers in this repo. -->
-<img src="https://github-stats-extended.vercel.app/api?username=c-sidd&custom_title=GitHub%20Analytics&theme=dark&show_icons=true&hide_rank=true&hide=stars,commits,issues,followers,following&number_format=long&cache_seconds=21600" alt="Live GitHub Analytics">
-
-<img src="./profile/top-langs.svg" alt="Top languages" height="180">
-
-<br><br>
-
-<img src="./profile/streak.svg" alt="Contribution streak">
+<a href="https://github.com/c-sidd">
+<img src="https://github-stats-extended.vercel.app/api?username=c-sidd&custom_title=GitHub%20Analytics&theme=dark&show_icons=true&hide_rank=true&hide=stars,issues,followers,following,commits&show=prs_authored&number_format=long&cache_seconds=21600" alt="Live GitHub Analytics">
+</a>
 
 </div>
 
