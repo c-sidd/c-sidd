@@ -1,0 +1,31 @@
+name: Update GitHub Analytics
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  push:
+    paths:
+      - ".github/workflows/profile-stats.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate dynamic profile stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/stats.svg
+          custom-title: GitHub Analytics
+          colors: dark-dimmed
+          hide-keys: followers following
+          category-order: contributions, general, repositories, languages
+          commit-message: "chore: update GitHub analytics"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
