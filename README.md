@@ -32,21 +32,80 @@ Open Source           ████████████░░░░░░░�
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Engineering Domains
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cpp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🌐 Web & Backend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs">
+
+### 🗄️ Databases & Data
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+
+### 🤖 AI / ML
+
+<img src="https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="RAG">
+<img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+
+### ⛓️ Blockchain
+
+<img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+<img src="https://img.shields.io/badge/Web3-1A1A1A?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3">
+
+### 💻 Competitive Programming & CS Fundamentals
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cpp&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Data%20Structures-2F80ED?style=for-the-badge" alt="Data Structures">
+<img src="https://img.shields.io/badge/Algorithms-FF6B35?style=for-the-badge" alt="Algorithms">
+<img src="https://img.shields.io/badge/Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Competitive Programming">
+<img src="https://img.shields.io/badge/Problem%20Solving-5B5B5B?style=for-the-badge" alt="Problem Solving">
+
+### 🧩 Core Engineering Fundamentals
+
+<img src="https://img.shields.io/badge/OOP-1F6FEB?style=for-the-badge" alt="OOP">
+<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS">
+<img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems">
+<img src="https://img.shields.io/badge/Computer%20Networks-0A66C2?style=for-the-badge" alt="Computer Networks">
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub">
+
+### ☕ Known, but not worked with deeply
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 
 </div>
+
+### 🚀 Recommended areas to explore next
+
+Since I want strong fundamentals across the major software-engineering domains before entering the industry, these are the next areas worth exploring:
+
+`Docker` `Kubernetes` `CI/CD` `System Design` `Distributed Systems` `Message Queues` `Redis` `Testing` `Security` `Observability` `Linux Internals` `Networking` `Go` `Rust`
+
+> The goal isn't to master every technology — it's to understand the **fundamentals behind each domain**, then go deep where my career and projects demand it.
 
 ---
 
