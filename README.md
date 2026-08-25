@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/terminal-header.svg" alt="Chandrachud terminal ASCII profile header">
+<img src="Gemini_Generated_Image_ravk2dravk2dravk.png">
 
 </div>
 
