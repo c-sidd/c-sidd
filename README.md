@@ -158,7 +158,9 @@ Open Source           ████████████░░░░░░░�
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub stats" height="180">
+<!-- Live card: generated from GitHub data on request, not stored as hardcoded numbers in this repo. -->
+<img src="https://github-stats-extended.vercel.app/api?username=c-sidd&custom_title=GitHub%20Analytics&theme=dark&show_icons=true&hide_rank=true&hide=stars,commits,issues,followers,following&number_format=long&cache_seconds=21600" alt="Live GitHub Analytics">
+
 <img src="./profile/top-langs.svg" alt="Top languages" height="180">
 
 <br><br>
